@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Zip files
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/

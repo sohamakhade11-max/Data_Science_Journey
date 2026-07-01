@@ -47,27 +47,6 @@ I am following the **"Complete Data Science, Machine Learning, Deep Learning, NL
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Data_Science_Journey/
-│
-├── 06_file_handling
-├── 07_exception_handling
-├── 11_oops_concepts
-├── 12_Advance_Concepts
-├── 13_Data_Analysis_With_Python
-├── 14_working_with_sqlite3
-├── 15_Logging_with_python
-├── 16_multithreading_and_multiprocessing
-├── 17_memory_management_in_python
-├── 18_flask
-├── 19_streamlit
-│
-└── README.md
-```
-
----
 
 ## 🛠 Technologies & Libraries
 
